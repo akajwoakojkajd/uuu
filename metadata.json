@@ -1,0 +1,6 @@
+{
+  "name": "Nerd Point Arcade (🤓🫵🏼)",
+  "description": "A simple, playful interactive web arcade full of 🤓🤓 where every game button and mini-game leads to 🤓🫵🏼.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
